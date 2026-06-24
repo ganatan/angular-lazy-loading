@@ -1,4 +1,4 @@
-# Angular 22.0.2 Example Lazy Loading
+# Angular 22.0.2 Lazy Loading
 
 
 <table>
@@ -93,7 +93,7 @@ Here is a step by step Tutorial :  https://www.ganatan.com/en/tutorials/getting-
 * Author  : danny
 
 ## [English Tutorials](#english-tutorials)
-- Installation - https://www.ganatan.com/tutorials/lazy-loading-with-angular
+- Installation - https://www.ganatan.com/en/tutorials/lazy-loading-with-angular
 - step-by-step Tutorials - https://www.ganatan.com/tutorials/en
 
 ## [Tutoriels en français](#french-tutorials)
