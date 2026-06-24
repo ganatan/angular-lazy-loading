@@ -1,4 +1,4 @@
-# Angular 22.0.2 Lazy Loading
+# Angular 22.0.2 Example Lazy Loading
 
 
 <table>
