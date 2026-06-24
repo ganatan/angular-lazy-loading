@@ -1,4 +1,4 @@
-# Angular 20 & React 18 Examples Lazy Loading
+# Angular 20 Lazy Loading
 
 <table>
 <tr>
